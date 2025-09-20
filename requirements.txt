@@ -3,6 +3,7 @@ scikit-learn
 rapidfuzz
 pandas
 numpy
+scipy
 distance
 beautifulsoup4
 nltk
