@@ -31,7 +31,6 @@ pyvenv.cfg
 .vscode/
 
 # Data and model files
-*.pkl
 *.h5
 *.hdf5
 *.csv
