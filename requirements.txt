@@ -1,9 +1,9 @@
 streamlit
-sklearn
+scikit-learn
 rapidfuzz
 pandas
 numpy
 distance
-bs4
+beautifulsoup4
 nltk
 gensim
