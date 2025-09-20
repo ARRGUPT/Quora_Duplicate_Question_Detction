@@ -1,0 +1,9 @@
+streamlit
+sklearn
+rapidfuzz
+pandas
+numpy
+distance
+bs4
+nltk
+gensim

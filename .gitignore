@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+Lib/
+Include/
+Scripts/
+share/
+etc/
+pyvenv.cfg
+
+# Environment variables
+.env
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Data and model files
+*.pkl
+*.h5
+*.hdf5
+*.csv
+*.tsv
+*.db
+*.sqlite3
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+__pypackages__/
+pip-wheel-metadata/
